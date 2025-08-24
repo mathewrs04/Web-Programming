@@ -12,11 +12,7 @@ This project was built to demonstrate our collective understanding of web progra
 
 ### 🚀 Key Features
 
-* **(Ganti dengan fitur spesifik proyek Anda):**
-* Responsive design that works on various screen sizes.
-* User authentication (e.g., login and registration).
 * Dynamic content display.
-* (Tambahkan fitur lain seperti formulir, galeri, dll.)
 
 ---
 
